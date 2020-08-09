@@ -1,0 +1,306 @@
+@media (min-width: 992px) { 
+/* NAVBAR */
+.bar{
+    background-color: white;
+}
+#wod8{
+    color: black;
+    text-decoration: none;
+}
+.wod8{
+    color: rgb(27, 26, 26);
+    font-size: 13px;
+    padding: 1rem;
+}
+#bgnav{
+    background-color: black;
+}
+.txt{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+/* CONTENT  */
+.content{
+    padding: 1rem;
+    margin-top: 7em;
+}
+.content #contn{
+    color: darkgray;
+    font-size: 10px;
+}
+.content #terbaru{
+    font-size: 18px;
+    color: rgb(121, 117, 117);
+}
+.content #sctn{
+    line-height: 7px;
+    font-size: 13px;
+}
+.content #sctn1{
+    color: black;
+    text-decoration: none;
+}
+.content #sctn2{
+    margin-top: 2rem;
+}
+.content .sctn2{
+    margin-top: 1rem;
+}
+.content .sctn3{
+    text-align: center;
+}
+.content #sctn3{
+    color: black;
+    font-size: 12px;
+}
+.content #view{
+    width: 40px;
+}
+.content #view1{
+    width: 50px;
+}
+.content #selectt{
+    font-size: 13px;
+    width: 120px;
+    height: 25px;
+}
+.content hr{
+    width:80%;
+    margin-right: 100%;
+    border: 1px solid darkgray;
+}
+/* FOOTER  */
+.footer{
+    background-color: rgb(201, 200, 200);
+    min-height: 400px;
+    padding: 2rem;
+}
+::placeholder{
+    font-size: 12px;
+    color: black;
+    
+}
+.footer input{
+    border: 1px solid white;
+    padding: 4px;
+    width: 380px;
+}
+.footer button{
+    border: 1px solid white ;
+    background-color: rgb(216, 212, 212);
+    color: gray;
+    width: 100px;
+    font-size: 15px;
+}
+.footer a{
+    color: rgb(119, 118, 114);
+    /* color: rgb(197, 197, 194); */
+}
+
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/* NAVBAR */
+.bar{
+    background-color: white;
+}
+#wod8{
+    color: black;
+    text-decoration: none;
+}
+.wod8{
+    color: rgb(27, 26, 26);
+    font-size: 13px;
+    padding: 1rem;
+}
+#bgnav{
+    background-color: black;
+}
+.txt{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+}
+/* CONTENT  */
+.content{
+    padding: 3rem;
+    margin-top: 8rem;
+}
+.content #contn{
+    color: darkgray;
+    font-size: 12px;
+}
+.content #terbaru{
+    font-size: 18px;
+    color: rgb(121, 117, 117);
+}
+.content #sctn{
+    line-height: 7px;
+    font-size: 10px;
+}
+.content #sctn1{
+    color: black;
+    text-decoration: none;
+}
+.content #sctn2{
+    margin-top: 2rem;
+}
+.content .sctn2{
+    margin-top: 1rem;
+}
+.content .sctn3{
+    text-align: center;
+}
+.content #sctn3{
+    color: black;
+    font-size: 11px;
+}
+.content #view{
+    width: 40px;
+}
+.content #view1{
+    width: 50px;
+}
+.content #selectt{
+    font-size: 13px;
+    width: 120px;
+    height: 25px;
+}
+.content #view{
+    width: 20px;
+}
+.content #view1{
+    width: 25px;
+}
+.content #pan{
+    font-size: 13px;
+}
+.content #selectt{
+    font-size: 12px;
+    width: 110px;
+    height: 25px;
+}
+.content hr{
+    width:80%;
+    margin-right: 100%;
+    border: 1px solid darkgray;
+}
+/* FOOTER  */
+.footer{
+    background-color: rgb(201, 200, 200);
+    min-height: 400px;
+    padding: 2rem;
+}
+::placeholder{
+    font-size: 12px;
+}
+.footer input{
+    border: 1px solid white;
+    padding: 4px;
+    width: 350px;
+}
+.footer button{
+    border: 1px solid white ;
+    background-color: rgb(216, 212, 212);
+    color: gray;
+    width: 100px;
+    font-size: 15px;
+}
+.footer a{
+    color: gray;
+}
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/* NAVBAR */
+.bar{
+    background-color: white;
+}
+#wod8{
+    color: black;
+    text-decoration: none;
+}
+.wod8{
+    color: rgb(27, 26, 26);
+    font-size: 13px;
+    padding: 1rem;
+}
+.txt{
+    visibility: hidden;
+}
+/* CONTENT  */
+.content{
+    margin-top: 7rem;
+}
+.content #contn{
+    visibility: hidden;
+}
+.content #terbaru{
+    font-size: 18px;
+    color: rgb(121, 117, 117);
+}
+.content #sctn{
+    line-height: 7px;
+    font-size: 12px;
+}
+.content #sctn1{
+    color: black;
+    text-decoration: none;
+}
+.content .sctn2{
+    margin-top: 1rem;
+}
+.content #view{
+    width: 25px;
+}
+.content #view1{
+    width: 30px;
+}
+.content #pan{
+    font-size: 13px;
+}
+.content #selectt{
+    font-size: 12px;
+    width: 110px;
+    height: 25px;
+}
+.content .sctn3{
+    text-align: center;
+}
+.content #sctn3{
+    color: black;
+    font-size: 12px;
+}
+.content hr{
+    width:100%;
+    margin-right: 100%;
+    border: 1px solid darkgray;
+}
+/* FOOTER  */
+.footer{
+    background-color: rgb(201, 200, 200);
+    min-height: 400px;
+    padding: 2rem;
+}
+::placeholder{
+    font-size: 12px;
+    color: black;
+}
+.footer input{
+    border: 1px solid white;
+    padding: 4px;
+    width: 350px;
+}
+.footer button{
+    border: 1px solid white ;
+    background-color: rgb(216, 212, 212);
+    color: gray;
+    width: 100px;
+    font-size: 15px;
+}
+.footer a{
+    color: gray;
+}
+}
